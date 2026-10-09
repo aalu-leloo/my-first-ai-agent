@@ -10,7 +10,7 @@ from typing import Optional
 load_dotenv()
 
 client = OpenAI(
-    api_key="AQ.Ab8RN6LebJy08nn6QKwjag8g0pAD2-oKtfkhHb5HKRX-G2l8yA",
+    api_key="API KEY..!!",
     base_url="https://generativelanguage.googleapis.com/v1beta/openai/",
 )
 
